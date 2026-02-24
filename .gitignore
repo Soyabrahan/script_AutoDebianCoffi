@@ -1,0 +1,5 @@
+programa/
+drivers/
+*.deb
+*.tar.xz
+*.so

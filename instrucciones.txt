@@ -1,0 +1,18 @@
+abrir el terminal dentro de la carpeta script_AutoCoffi o en su pasar el archhivo a documentos ,descomprimir y realizar cd Documentos/script_AutoCoffi luego
+
+si quiere instalar el conjunto de programas de forma automatica (driver,firefox,libreoffice,thunderbird)
+
+chmod 777 autoInstall.sh
+
+sudo ./autoInstall.sh
+
+si quiere decidir que programas se van a instalar
+
+chmod 777 menuInstall.sh
+sudo ./menuInstall.sh
+
+si quiere solo instalar driver de antena wifi
+
+chmod 777 autoDriver.sh
+
+sudo ./autoDriver.sh
